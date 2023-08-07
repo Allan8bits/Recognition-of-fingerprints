@@ -22,16 +22,27 @@ DATA/
 A/
 
 image1.jpg
+
 image2.jpg
+
 ...
+
 B/
+
 image1.jpg
+
 image2.jpg
+
 ...
+
 C/
+
 image1.jpg
+
 image2.jpg
+
 ...
+
 ...
 
 Make sure the images are named correctly, preferably with the .jpg extension.
