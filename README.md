@@ -18,7 +18,9 @@ scikeras
 The sign language images should be organized in subdirectories, where each subdirectory represents a letter of the alphabet. For example, the directory structure can be as follows:
 
 DATA/
+
 A/
+
 image1.jpg
 image2.jpg
 ...
